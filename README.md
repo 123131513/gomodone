@@ -1,0 +1,2 @@
+# gomodone
+a go mod
